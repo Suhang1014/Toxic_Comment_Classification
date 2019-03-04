@@ -1,5 +1,6 @@
 # Toxic_Comment_Classification
 COMP6237 Data Mining Group coursework
+
 1  Data Exploration
 
 1.1  Check the basic info of the dataset
