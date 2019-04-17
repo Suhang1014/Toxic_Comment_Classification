@@ -23,6 +23,7 @@ pre的feedback已经更新：https://hackmd.io/KRmH_7ahQACARMqqRFAiJg?view
 Data Exploration:
 1. 添加了wordcloud的部分，由于加蒙版运行速度过慢，保持了普通的样式
 2. wordcloud中重复的词可以设置去除（collocations=False）
+
 Feature engineering:
 1. 添加了leaky feature的部分
 Corpus cleaning:
